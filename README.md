@@ -148,3 +148,4 @@ git clone https://github.com/chitkokoaung1056/Notezy.git
 cd Notezy
 >>>>>>> 1c9f0f8202351ccc3db0efc32187c2d34b796b38
 # notezy
+# notezy
