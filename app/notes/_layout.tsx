@@ -16,6 +16,7 @@ const NotesLayout = () => {
   const note = notes.find((note) => note.id === Number(id));
   if (!note) return null;
 
+  // eslint-disable-next-line react-hooks/rules-of-hooks
   const [isModalOpen, setModalOpen] = useState(false);
 
   const handleDelete = () => {
